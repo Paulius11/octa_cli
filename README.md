@@ -6,6 +6,14 @@ A command-line interface for the Octa Network cryptocurrency.
 
 ## Installation
 
+### Clone the repository:
+```bash
+git clone https://github.com/paulius11/octa_cli.git
+cd octa_cli
+```
+
+### Install dependencies:
+
 Requires Python 3.7+ and the following dependencies:
 ```bash
 pip install aiohttp nacl
