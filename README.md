@@ -16,7 +16,7 @@ cd octa_cli
 
 Requires Python 3.7+ and the following dependencies:
 ```bash
-pip install aiohttp nacl
+pip install -r requirements.txt
 ```
 
 ## Quick Start
